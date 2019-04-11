@@ -1,0 +1,15 @@
+a1 : ["tango2", "foodmarket4", "campfire"]
+a2 : ["catrobot1", "daylightroad2", "parkrunning3"]
+b : ["marketplace", "ritualdance", "cactus", "basketballdrive", "bqterrace" ]
+c : ["racehorses", "bqmall", "partyscene", "basketballdrill"]
+d : ["racehorses", "bqsquare", "blowingbubbles", "basketballpass"]
+e : ["fourpeople", "johnny", "kristenandsara"]
+f : ["basketballdrilltext", "slideediting", "slideshow", "arenaofvalor"]
+
+jvet : ['a1', 'a2', 'b', 'c', 'd', 'e', 'f']
+vvc : ['a1', 'a2', 'b', 'c', 'd', 'e', 'f']
+
+sort : ["tango2", "foodmarket4", "campfire","catrobot1", "daylightroad2", "parkrunning3", "marketplace", "ritualdance",
+        "cactus", "basketballdrive", "bqterrace","basketballdrill", "bqmall", "partyscene", "racehorses","basketballpass",
+        "bqsquare", "blowingbubbles", "racehorses", "fourpeople", "johnny", "kristenandsara", "basketballdrilltext", "arenaofvalor", "slideediting", "slideshow"]
+

@@ -1,0 +1,10 @@
+
+#Client_info
+ComputerName : DMS_EX_COM_2
+SeverIP : '223.195.38.107'
+PORT : 3840
+BUFSIZE : 1024
+Sequence_Path : 'C:/origCfP'
+Temp_Path : 'C:/CodecTemp'
+
+

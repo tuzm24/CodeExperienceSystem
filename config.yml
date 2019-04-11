@@ -1,0 +1,24 @@
+#must list
+Name : "ywkim_Test"
+QP: [22,27,32,37]
+EncoderPath: "C:/DMSExperience/EncoderApp.exe"
+DecoderPath: "C:/DMSExperience/DecoderApp.exe"
+
+#Default is C:/DMSExperience
+DirectoryPath: "C:/DMSExperience"
+
+#Path
+InputPath: "C:/origCfP"
+ClassInfoPath: "./SequenceSetting/Class_Info.yml"
+SequencesPath: "./SequenceSetting/CTCSequences.csv"
+ConfigPath: "./config"
+Logger_Path: 'logs/'
+
+
+
+#Encoder Option
+ToBeEncodeFrameNumber : 1
+#ToBeEncodeClass: ["VVC"]
+UseRas : 1
+#ToBeEncodeClass : ["A1", "A2", "B", "C", "D", "E", "F"]
+ToBeEncodeClass : ["D"]
